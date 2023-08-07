@@ -46,12 +46,7 @@ function check_active_network_connections {
     echo "Conexiones de red activas:"
     netstat -tuln
     echo ""
-    echo "NOTA"
-    echo " Si por ejemplo aparece  udp  0   0 224.0.0.251:5353   0.0.0.0:* "
-    echo "Para verificar si hay comunicaciones con la dirección IP 224.0.0.251 en el puerto 5353, 
-     puedes ejecutar el siguiente comando en otra terminal:
-     sudo tcpdump -i <interfaz_de_red> host 224.0.0.251 and port 5353
-        sudo tcpdump -i wlan0  host 142.250.79.99 and port 443"
+
 }
 
 function check_open_files_by_processes {
