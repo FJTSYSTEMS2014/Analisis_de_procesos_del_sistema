@@ -1,6 +1,7 @@
 # Analisis_de_procesos_del_sistema
 
 ##Pasos de Instalación- Resumen:
+Clonar repositorio: git clone https://github.com/FJTSYSTEMS2014/Analisis_de_procesos_del_sistema.git
 
 Dar permisos de ejecución al script: Asegúrate de darle permisos de ejecución al script utilizando el comando chmod:
    chmod +x  procesosSistema.sh
