@@ -7,8 +7,8 @@ Dar permisos de ejecución al script: Asegúrate de darle permisos de ejecución
    chmod +x  procesosSistema.sh
    
 Instalar requisitos: Para instalar los paquetes necesarios, utiliza los siguientes comandos:
-  sudo apt update
-  sudo apt install bash clamav tcpdump wireshark
+
+bash requerimientos.txt
   
 Ejecutar el script: Ahora puedes ejecutar el script utilizando el siguiente comando:
   ./nombre_del_script.sh
