@@ -1,6 +1,4 @@
 # Analisis_de_procesos_del_sistema
-Analisis de procesos del sistema:
-
 
 Pasos de Instalación- Resumen:
 
@@ -14,7 +12,7 @@ Ejecutar el script: Ahora puedes ejecutar el script utilizando el siguiente coma
   ./nombre_del_script.sh
 
 
-Mas información:
+Analisis de procesos del sistema:
 
 Para que el programa funcione en Kali Linux, necesitarás asegurarte de que se cumplan los siguientes requisitos:
 
