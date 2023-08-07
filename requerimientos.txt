@@ -1,0 +1,5 @@
+# Actualizar repositorios
+sudo apt update
+
+# Instalar paquetes necesarios
+sudo apt install -y bash clamav tcpdump wireshark
