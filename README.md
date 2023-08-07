@@ -1,9 +1,10 @@
 # Analisis_de_procesos_del_sistema
 
-Pasos de Instalación- Resumen:
+##Pasos de Instalación- Resumen:
 
 Dar permisos de ejecución al script: Asegúrate de darle permisos de ejecución al script utilizando el comando chmod:
    chmod +x  procesosSistema.sh
+   
 Instalar requisitos: Para instalar los paquetes necesarios, utiliza los siguientes comandos:
   sudo apt update
   sudo apt install bash clamav tcpdump wireshark
@@ -12,7 +13,7 @@ Ejecutar el script: Ahora puedes ejecutar el script utilizando el siguiente coma
   ./nombre_del_script.sh
 
 
-Analisis de procesos del sistema:
+##Analisis de procesos del sistema:
 
 Para que el programa funcione en Kali Linux, necesitarás asegurarte de que se cumplan los siguientes requisitos:
 
